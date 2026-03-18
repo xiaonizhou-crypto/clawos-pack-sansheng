@@ -1,0 +1,66 @@
+{
+  "id": "sansheng",
+  "name": "三省六部",
+  "theme": "古风组织",
+  "tagline": "不是安装一个 bot，而是召来一整座替你办事的朝廷",
+  "description": "三省六部完整母本组织包，支持 Lite / Standard / Full 三档预设安装，把 AI 从多助手拼盘升级成有分拣、草拟、审核、派发、执行与研究能力的一整座朝廷。",
+  "version": "1.0.0",
+  "author": "ClawOS",
+  "tier": "full-motherpack",
+  "complexity": "intermediate",
+  "agentCount": 11,
+  "agents": ["taizi", "zhongshu", "menxia", "shangshu", "libu-renli", "hubu", "libu", "bingbu", "xingbu", "gongbu", "hanlinyuan"],
+  "presets": {
+    "lite": ["taizi", "zhongshu", "menxia", "shangshu", "gongbu"],
+    "standard": ["taizi", "zhongshu", "menxia", "shangshu", "gongbu", "libu", "hubu", "bingbu", "xingbu"],
+    "full": ["taizi", "zhongshu", "menxia", "shangshu", "libu-renli", "hubu", "libu", "bingbu", "xingbu", "gongbu", "hanlinyuan"]
+  },
+  "defaultPreset": "full",
+  "defaultEntryAgent": "taizi",
+  "organizationStyle": "接旨分案 → 草拟谋划 → 审核封驳 → 统筹派发 → 执行交付",
+  "recommendedUseCases": [
+    "想把 AI 从单助手升级成组织系统的人",
+    "需要强分工、强角色感、强协作顺序的个人工作台",
+    "希望把项目推进、创作组织与研究治理放进统一框架的人"
+  ],
+  "notRecommendedFor": [
+    "只想要单 agent 极简体验的人",
+    "完全不接受角色化与组织感的人"
+  ],
+  "sharedSkills": ["github", "feishu-doc"],
+  "workspaceSkills": {
+    "taizi": ["task-triage-template"],
+    "zhongshu": ["plan-drafting-template"],
+    "menxia": ["review-template-skill"],
+    "shangshu": ["dispatch-and-closure-template"],
+    "gongbu": ["delivery-execution-template"],
+    "libu": ["presentation-and-polish-template"],
+    "hubu": ["resource-priority-template"],
+    "bingbu": ["campaign-push-template"],
+    "xingbu": ["risk-and-compliance-template"],
+    "libu-renli": ["people-and-structure-template"],
+    "hanlinyuan": ["research-and-knowledge-template"]
+  },
+  "clawhubInstalls": ["github"],
+  "avatars": {
+    "taizi": "assets/avatars/taizi.png",
+    "zhongshu": "assets/avatars/zhongshu.png",
+    "menxia": "assets/avatars/menxia.png",
+    "shangshu": "assets/avatars/shangshu.png",
+    "libu-renli": "assets/avatars/libu-renli.png",
+    "hubu": "assets/avatars/hubu.png",
+    "libu": "assets/avatars/libu.png",
+    "bingbu": "assets/avatars/bingbu.png",
+    "xingbu": "assets/avatars/xingbu.png",
+    "gongbu": "assets/avatars/gongbu.png",
+    "hanlinyuan": "assets/avatars/hanlinyuan.png"
+  },
+  "suggestedBindings": [
+    {
+      "agent": "taizi",
+      "bind": "feishu:default"
+    }
+  ],
+  "sourceType": "public-domain",
+  "license": "Proprietary-Marketplace"
+}
