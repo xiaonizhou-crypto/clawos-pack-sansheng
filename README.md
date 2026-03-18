@@ -19,7 +19,7 @@
 
 ## 实机一眼看懂
 
-![员工班底总览](assets/screenshots/roster-overview.png)
+![员工班底总览](assets/readme/roster-overview-readme.png)
 
 **你的班底已经到位。**  
 直接查看每位成员状态、当前位置与当前任务，并当场布置任务。
@@ -52,7 +52,7 @@
 ### 爽感
 事情终于会被接住、分清、审核、推进、做出来，而不是永远漂在讨论里。
 
-![后台总览](assets/screenshots/dashboard-overview.png)
+![后台总览](assets/readme/dashboard-overview-readme.png)
 
 **不是换皮，是可运行的组织系统。**  
 从会话、成员到运行成本，这套系统已经具备真实的管理与观测能力。
@@ -140,7 +140,7 @@ bash scripts/verify-pack.sh --preset standard
 更多说明见：
 - `PRESET_GUIDE.md`
 
-![员工市场 / 招聘](assets/screenshots/employee-marketplace.png)
+![员工市场 / 招聘](assets/readme/employee-marketplace-readme.png)
 
 **班底不是静态的，还能继续扩编。**  
 从员工市场直接招聘新角色、新能力位，把组织系统越补越完整。
@@ -151,17 +151,17 @@ bash scripts/verify-pack.sh --preset standard
 
 | 太子 | 中书省 | 门下省 | 尚书省 |
 |---|---|---|---|
-| ![太子](assets/avatars/taizi.png) | ![中书省](assets/avatars/zhongshu.png) | ![门下省](assets/avatars/menxia.png) | ![尚书省](assets/avatars/shangshu.png) |
+| ![太子](assets/readme/taizi-readme.png) | ![中书省](assets/readme/zhongshu-readme.png) | ![门下省](assets/readme/menxia-readme.png) | ![尚书省](assets/readme/shangshu-readme.png) |
 | 接旨分案 | 草拟谋划 | 审核封驳 | 统筹派发 |
 
 | 吏部 | 户部 | 礼部 | 兵部 |
 |---|---|---|---|
-| ![吏部](assets/avatars/libu-renli.png) | ![户部](assets/avatars/hubu.png) | ![礼部](assets/avatars/libu.png) | ![兵部](assets/avatars/bingbu.png) |
+| ![吏部](assets/readme/libu-renli-readme.png) | ![户部](assets/readme/hubu-readme.png) | ![礼部](assets/readme/libu-readme.png) | ![兵部](assets/readme/bingbu-readme.png) |
 | 编制治理 | 资源轻重 | 表达呈现 | 推进督办 |
 
 | 刑部 | 工部 | 翰林院 |  |
 |---|---|---|---|
-| ![刑部](assets/avatars/xingbu.png) | ![工部](assets/avatars/gongbu.png) | ![翰林院](assets/avatars/hanlinyuan.png) |  |
+| ![刑部](assets/readme/xingbu-readme.png) | ![工部](assets/readme/gongbu-readme.png) | ![翰林院](assets/readme/hanlinyuan-readme.png) |  |
 | 风险边界 | 执行交付 | 深度研究 |  |
 
 想看每位官员的完整介绍：
