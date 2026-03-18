@@ -5,6 +5,8 @@ Current README screenshots:
 2. `dashboard-overview.png` — dashboard / conversations / agent metrics / runtime overview
 3. `employee-marketplace.png` — employee marketplace / hire-new-role view
 
+For GitHub README / release rendering, prefer absolute raw GitHub URLs when inline image stability matters.
+
 Future additions:
 4. pack detail cover
 5. install preset selection

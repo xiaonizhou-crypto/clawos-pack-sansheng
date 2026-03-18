@@ -19,7 +19,7 @@
 
 ## 实机一眼看懂
 
-![员工班底总览](assets/screenshots/roster-overview.png)
+![员工班底总览](https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/screenshots/roster-overview.png)
 
 **你的班底已经到位。**  
 直接查看每位成员状态、当前位置与当前任务，并当场布置任务。
@@ -52,7 +52,7 @@
 ### 爽感
 事情终于会被接住、分清、审核、推进、做出来，而不是永远漂在讨论里。
 
-![后台总览](assets/screenshots/dashboard-overview.png)
+![后台总览](https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/screenshots/dashboard-overview.png)
 
 **不是换皮，是可运行的组织系统。**  
 从会话、成员到运行成本，这套系统已经具备真实的管理与观测能力。
@@ -140,7 +140,7 @@ bash scripts/verify-pack.sh --preset standard
 更多说明见：
 - `PRESET_GUIDE.md`
 
-![员工市场 / 招聘](assets/screenshots/employee-marketplace.png)
+![员工市场 / 招聘](https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/screenshots/employee-marketplace.png)
 
 **班底不是静态的，还能继续扩编。**  
 从员工市场直接招聘新角色、新能力位，把组织系统越补越完整。
