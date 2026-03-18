@@ -19,7 +19,7 @@
 
 ## 实机一眼看懂
 
-![员工班底总览](https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/screenshots/roster-overview.png)
+<img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/screenshots/roster-overview.png" alt="员工班底总览" width="1200" />
 
 **你的班底已经到位。**  
 直接查看每位成员状态、当前位置与当前任务，并当场布置任务。
@@ -52,7 +52,7 @@
 ### 爽感
 事情终于会被接住、分清、审核、推进、做出来，而不是永远漂在讨论里。
 
-![后台总览](https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/screenshots/dashboard-overview.png)
+<img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/screenshots/dashboard-overview.png" alt="后台总览" width="1200" />
 
 **不是换皮，是可运行的组织系统。**  
 从会话、成员到运行成本，这套系统已经具备真实的管理与观测能力。
@@ -140,7 +140,7 @@ bash scripts/verify-pack.sh --preset standard
 更多说明见：
 - `PRESET_GUIDE.md`
 
-![员工市场 / 招聘](https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/screenshots/employee-marketplace.png)
+<img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/screenshots/employee-marketplace.png" alt="员工市场 / 招聘" width="1200" />
 
 **班底不是静态的，还能继续扩编。**  
 从员工市场直接招聘新角色、新能力位，把组织系统越补越完整。
@@ -149,19 +149,26 @@ bash scripts/verify-pack.sh --preset standard
 
 ## 朝廷阵容
 
-| 角色 | 头像 | 位置 | 一句话 |
-|---|---|---|---|
-| 太子 | `assets/avatars/taizi.png` | 入口中枢 | 接旨分案，先定轻重 |
-| 中书省 | `assets/avatars/zhongshu.png` | 谋划中枢 | 把模糊写成章程 |
-| 门下省 | `assets/avatars/menxia.png` | 审核之门 | 冷而可信的封驳关口 |
-| 尚书省 | `assets/avatars/shangshu.png` | 总调度 | 让事情真正运转起来 |
-| 吏部 | `assets/avatars/libu-renli.png` | 编制治理 | 决定谁堪其位 |
-| 户部 | `assets/avatars/hubu.png` | 资源中枢 | 轻重缓急，家底为先 |
-| 礼部 | `assets/avatars/libu.png` | 表达呈现 | 让成果体面见人 |
-| 兵部 | `assets/avatars/bingbu.png` | 推进督办 | 节奏本身，就是战场 |
-| 刑部 | `assets/avatars/xingbu.png` | 风险边界 | 守住刹车，方能全速 |
-| 工部 | `assets/avatars/gongbu.png` | 执行交付 | 让命令真正落地 |
-| 翰林院 | `assets/avatars/hanlinyuan.png` | 深度研究 | 借古知今，蓄养深度 |
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/taizi.png" width="96" alt="太子" /><br/><strong>太子</strong><br/>接旨分案</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/zhongshu.png" width="96" alt="中书省" /><br/><strong>中书省</strong><br/>草拟谋划</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/menxia.png" width="96" alt="门下省" /><br/><strong>门下省</strong><br/>审核封驳</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/shangshu.png" width="96" alt="尚书省" /><br/><strong>尚书省</strong><br/>统筹派发</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/libu-renli.png" width="96" alt="吏部" /><br/><strong>吏部</strong><br/>编制治理</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/hubu.png" width="96" alt="户部" /><br/><strong>户部</strong><br/>资源轻重</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/libu.png" width="96" alt="礼部" /><br/><strong>礼部</strong><br/>表达呈现</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/bingbu.png" width="96" alt="兵部" /><br/><strong>兵部</strong><br/>推进督办</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/xingbu.png" width="96" alt="刑部" /><br/><strong>刑部</strong><br/>风险边界</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/gongbu.png" width="96" alt="工部" /><br/><strong>工部</strong><br/>执行交付</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/xiaonizhou-crypto/clawos-pack-sansheng/main/assets/avatars/hanlinyuan.png" width="96" alt="翰林院" /><br/><strong>翰林院</strong><br/>深度研究</td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 想看每位官员的完整介绍：
 - `ROLE_ROSTER.md`
